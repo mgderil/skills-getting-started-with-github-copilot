@@ -45,6 +45,18 @@ activities = {
         "max_participants": 15,
         "participants": ["noah@mergington.edu", "ava@mergington.edu"]
     },
+    "Tennis Club": {
+        "description": "Practice serves, footwork, and match strategy",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": ["grace@mergington.edu", "henry@mergington.edu"]
+    },
+    "Soccer Team": {
+        "description": "Train for matches and improve teamwork on the field",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["zoe@mergington.edu", "ben@mergington.edu"]
+    },
     "Swimming Club": {
         "description": "Improve swimming techniques and prepare for swim meets",
         "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
@@ -62,6 +74,18 @@ activities = {
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 16,
         "participants": ["amelia@mergington.edu", "ethan@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Learn camera techniques, composition, and photo editing",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["nora@mergington.edu", "liam@mergington.edu"]
+    },
+    "Dance Ensemble": {
+        "description": "Learn choreography and perform in school showcases",
+        "schedule": "Thursdays and Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["maya@mergington.edu", "owen@mergington.edu"]
     },
     "Science Olympiad": {
         "description": "Prepare for science competitions with experiments and team challenges",
